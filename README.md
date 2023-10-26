@@ -1,4 +1,4 @@
-## Hey 👋, I'm  Brandon Rodriguez!  
+## Hello there! 👋, I'm  Brandon Rodriguez!  
   
 
 <a href="https://github.com/brando93" target="_blank">
