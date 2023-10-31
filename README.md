@@ -47,7 +47,7 @@ I’m a DevOps Engineer who has been in the business for 10 years starting as UN
 
 ## Rapidfire
   - 🔭 I’m currently working on Terraform + AWS + Ansible + K8s projects  
-  - 🌱 I’m actually studying to get certified as an AWS Solutions Architect  
+  - 🌱 I’m actually studying to get certified as an AWS Solutions Architect and Jenkins Certified Engineer.  
   - 💡 Find more about me at:  
   - ⚡ Fun fact: I hit down arrow until I find the command instead of typing it  
 
