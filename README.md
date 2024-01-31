@@ -14,7 +14,7 @@
 <table>
   <tr>
     <td valign="top" width="50%">
-I’m a DevOps Engineer who has been in the business for 10 years starting as UNIX Engineer and then become a DevOps Engineer working for companies such as: DXC, IBM, Citi Bank & Vmware. While adapting cutting edge technologies like Kubernetes, Ansible, Terraform, Docker. I specialize in automate & support infrastructure using Infrastructure as a Code (IaC).  
+I’m a DevOps Engineer who has been in the business for 10 years starting as UNIX Engineer and then become a DevOps Engineer working for companies such as: DXC, IBM, Citi Bank & Vmware. While adapting cutting edge technologies like Kubernetes, Ansible, Terraform, Docker. I'm specialized in automate & support infrastructure using Infrastructure as a Code (IaC).  
   </tr>
 </table>
 
