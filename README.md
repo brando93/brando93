@@ -46,10 +46,10 @@ I’m a DevOps Engineer who has been in the business for 10 years starting as UN
 
 
 ## Rapidfire
-  - 🔭 I’m currently working on Terraform + AWS + Ansible + K8s projects  
+  - 🔭 I’m currently practicing Terraform + AWS + Ansible + K8s projects.  
   - 🌱 I’m actually studying to get certified as an AWS Solutions Architect and Jenkins Certified Engineer.  
-  - 💡 Find more about me at: http://bran-website.s3-website-us-east-1.amazonaws.com/#page-top 
-  - ⚡ Fun fact: I hit down arrow until I find the command instead of typing it
+  - 💡 Find more about me at: http://bran-website.s3-website-us-east-1.amazonaws.com/#page-top .
+  - ⚡ Fun fact: I hit down arrow until I find the command instead of typing it.
   - 🚀 Looking forward to start in the Game Development or Machine Learning path after completing Bachelor's Degree in Engineering.
 
 
