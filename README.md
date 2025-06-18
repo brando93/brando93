@@ -50,7 +50,7 @@ I’m a DevOps Engineer who has been in the business for 5+ years starting as UN
   - 🌱 I’m actually studying to get certified as an AWS Solutions Architect and Jenkins Certified Engineer.  
   - 💡 Find more about me at: http://bran-website.s3-website-us-east-1.amazonaws.com/#page-top .
   - ⚡ Fun fact: I hit down arrow until I find the command instead of typing it.
-  - 🚀 Looking forward to start in the Game Development or Machine Learning path after completing Bachelor's Degree in Engineering.
+  - 🚀 Looking forward to grow as DevOps Engineer however the dream is to work in Game Development or Machine Learning path after completing Bachelor's Degree in Engineering.
 
 
 <br />
