@@ -15,14 +15,26 @@
 DevOps Engineer with **5+ years of experience**, starting as a **UNIX Engineer** and evolving into DevOps roles at **DXC, IBM, Citi Bank, and VMware**.
 
 I specialize in **automating, operating, and supporting cloud infrastructure** using **Infrastructure as Code (IaC)** and modern DevOps practices.  
-My daily work involves **Kubernetes, Terraform, Ansible, Docker, and AWS**, with a strong focus on **reliability, scalability, and automation**.
+Hands-on experience with **Kubernetes, Terraform, Ansible, Docker, and AWS**, focusing on **scalability, reliability, and automation**.
 
 ---
 
 ### 🎓 Certifications
-- ☸️ **Certified Kubernetes Administrator (CKA)** — CNCF  
-- 🧱 **Terraform Associate Certified** — HashiCorp  
-- ☁️ **AWS Certified Solutions Architect – Associate**
+
+#### ☸️ Certified Kubernetes Administrator (CKA)
+- **ID:** `LF-xzcc59lbnf`  
+- **Issuer:** CNCF / Linux Foundation  
+- 🔗 https://www.credly.com/badges/3fed3477-01e9-4e1c-bd25-ce589fe25808
+
+#### 🧱 HashiCorp Certified: Terraform Associate
+- **ID:** `a533f2cb6e8d`  
+- **Issuer:** HashiCorp  
+- 🔗 https://www.credly.com/badges/87cb37ba-8b3a-4d59-bbbf-a533f2cb6e8d
+
+#### ☁️ AWS Certified Solutions Architect – Associate
+- **ID:** `20081a21-7d12-4226-bf35-67edab0d66ff`  
+- **Issuer:** Amazon Web Services  
+- 🔗 https://www.credly.com/earner/earned/badge/20081a21-7d12-4226-bf35-67edab0d66ff
 
 ---
 
@@ -45,14 +57,14 @@ My daily work involves **Kubernetes, Terraform, Ansible, Docker, and AWS**, with
 ---
 
 ### 🎯 Current Focus
-- 🔭 Building **multi-tier cloud projects** using Terraform, AWS, Ansible, and Kubernetes  
+- 🔭 Building **multi-tier cloud platforms** using Terraform, AWS, Ansible & Kubernetes  
 - 🌱 Preparing for **Red Hat Certified Specialist in Ansible Automation**  
-- 🚀 Growing as a **DevOps / Platform Engineer**, with long-term interest in **Game Development & Machine Learning**  
+- 🚀 Long-term interest in **Platform Engineering, Game Development & Machine Learning**  
 - ⚡ Fun fact: I use the ↓ arrow instead of retyping commands
 
 ---
 
-🌐 **Personal Website:**  
+🌐 **Personal Website**  
 http://bran-website.s3-website-us-east-1.amazonaws.com
 
 ---
