@@ -46,8 +46,8 @@ I’m a DevOps Engineer who has been in the business for 5+ years starting as UN
 
 
 ## Rapidfire
-  - 🔭 I’m currently practicing Terraform + AWS + Ansible + K8s projects.  
-  - 🌱 I’m actually studying to get certified as an AWS Solutions Architect.  
+  - 🔭 I’m currently practicing multi tier projects Terraform + AWS + Ansible + K8s projects.  
+  - 🌱 I’m actually studying to get certified as Red Hat Certified Specialist in Ansible Automation.  
   - 💡 Find more about me at: http://bran-website.s3-website-us-east-1.amazonaws.com/#page-top .
   - ⚡ Fun fact: I hit down arrow until I find the command instead of typing it.
   - 🚀 Looking forward to grow as DevOps Engineer however the dream is to work in Game Development or Machine Learning path after completing Bachelor's Degree in Engineering.
@@ -58,27 +58,6 @@ I’m a DevOps Engineer who has been in the business for 5+ years starting as UN
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=brando93&theme=dark&show_icons=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brando93&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
+[![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ----
