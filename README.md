@@ -21,20 +21,15 @@ Hands-on experience with **Kubernetes, Terraform, Ansible, Docker, and AWS**, fo
 
 ### 🎓 Certifications
 
-#### ☸️ Certified Kubernetes Administrator (CKA)
-- **ID:** `LF-xzcc59lbnf`  
-- **Issuer:** CNCF / Linux Foundation  
-- 🔗 https://www.credly.com/badges/3fed3477-01e9-4e1c-bd25-ce589fe25808
+- ☸️ **Certified Kubernetes Administrator (CKA)**  
+  **ID:** [LF-xzcc59lbnf](https://www.credly.com/badges/3fed3477-01e9-4e1c-bd25-ce589fe25808)
 
-#### 🧱 HashiCorp Certified: Terraform Associate
-- **ID:** `a533f2cb6e8d`  
-- **Issuer:** HashiCorp  
-- 🔗 https://www.credly.com/badges/87cb37ba-8b3a-4d59-bbbf-a533f2cb6e8d
+- 🧱 **HashiCorp Certified: Terraform Associate**  
+  **ID:** [a533f2cb6e8d](https://www.credly.com/badges/87cb37ba-8b3a-4d59-bbbf-a533f2cb6e8d)
 
-#### ☁️ AWS Certified Solutions Architect – Associate
-- **ID:** `20081a21-7d12-4226-bf35-67edab0d66ff`  
-- **Issuer:** Amazon Web Services  
-- 🔗 https://www.credly.com/earner/earned/badge/20081a21-7d12-4226-bf35-67edab0d66ff
+- ☁️ **AWS Certified Solutions Architect – Associate**  
+  **ID:** [20081a21-7d12-4226-bf35-67edab0d66ff](https://www.credly.com/earner/earned/badge/20081a21-7d12-4226-bf35-67edab0d66ff)
+
 
 ---
 
