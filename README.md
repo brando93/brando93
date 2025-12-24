@@ -1,63 +1,58 @@
-## Hello there! 👋, I'm  Brandon Rodriguez!  
-  
+## 👋 Hi, I’m Brandon Rodriguez  
+**DevOps Engineer | Cloud & Platform Automation | 5+ years**
 
 <a href="https://github.com/brando93" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" />
 </a>
 <a href="https://linkedin.com/in/brandonrodriguezfernandez" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-  
-<br/>
+  <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+</a>
 
-### Glad to see you here!  
-<table>
-  <tr>
-    <td valign="top" width="50%">
-I’m a DevOps Engineer who has been in the business for 5+ years starting as UNIX Engineer and then become a DevOps Engineer working for companies such as: DXC, IBM, Citi Bank & Vmware. While adapting cutting edge technologies like Kubernetes, Ansible, Terraform, Docker. I'm specialized in automate & support infrastructure using Infrastructure as a Code (IaC).  
-  </tr>
-</table>
+---
 
-<br />
+### 👨‍💻 About Me
 
-### Certifications  
-- ⚓ Kubernetes: [Certified Kubernetes Administrator (CKA) ](https://www.credly.com/badges/3fed3477-01e9-4e1c-bd25-ce589fe25808)
-- ♉ Hashicorp: [Terraform Associate Certified ](https://www.credly.com/badges/0354d250-9de7-4a66-a0b2-b7ea44cced65)   
-  
-## Experience with:  
-<div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="60" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="60" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="60" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="60" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="60" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="60" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="60" /></a>  
-<a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="60" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="60" /></a>  
-<a href="https://www.ansible.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ansible.png" alt="Ansible" height="60" /></a>  
-<a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="60" /></a>  
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="60" /></a>  
-</div>  
+DevOps Engineer with **5+ years of experience**, starting as a **UNIX Engineer** and evolving into DevOps roles at **DXC, IBM, Citi Bank, and VMware**.
 
-<br/>  
+I specialize in **automating, operating, and supporting cloud infrastructure** using **Infrastructure as Code (IaC)** and modern DevOps practices.  
+My daily work involves **Kubernetes, Terraform, Ansible, Docker, and AWS**, with a strong focus on **reliability, scalability, and automation**.
 
-<br/>  
+---
 
+### 🎓 Certifications
+- ☸️ **Certified Kubernetes Administrator (CKA)** — CNCF  
+- 🧱 **Terraform Associate Certified** — HashiCorp  
+- ☁️ **AWS Certified Solutions Architect – Associate**
 
-## Rapidfire
-  - 🔭 I’m currently practicing multi tier projects Terraform + AWS + Ansible + K8s projects.  
-  - 🌱 I’m actually studying to get certified as Red Hat Certified Specialist in Ansible Automation.  
-  - 💡 Find more about me at: http://bran-website.s3-website-us-east-1.amazonaws.com/#page-top .
-  - ⚡ Fun fact: I hit down arrow until I find the command instead of typing it.
-  - 🚀 Looking forward to grow as DevOps Engineer however the dream is to work in Game Development or Machine Learning path after completing Bachelor's Degree in Engineering.
+---
 
+### 🛠️ Technologies & Tools
 
-<br />
+<div align="center">
+  <a href="https://aws.amazon.com/" target="_blank"><img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" height="60" alt="AWS" /></a>
+  <a href="https://kubernetes.io/" target="_blank"><img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" height="60" alt="Kubernetes" /></a>
+  <a href="https://www.terraform.io/" target="_blank"><img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" height="60" alt="Terraform" /></a>
+  <a href="https://www.ansible.com/" target="_blank"><img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/ansible.png" height="60" alt="Ansible" /></a>
+  <a href="https://www.docker.com/" target="_blank"><img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" height="60" alt="Docker" /></a>
+  <a href="https://www.linux.org/" target="_blank"><img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="60" alt="Linux" /></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" height="60" alt="Bash" /></a>
+  <a href="https://www.jenkins.io/" target="_blank"><img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" height="60" alt="Jenkins" /></a>
+  <a href="https://about.gitlab.com/" target="_blank"><img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" height="60" alt="GitLab" /></a>
+  <a href="https://www.python.org/" target="_blank"><img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="60" alt="Python" /></a>
+  <a href="https://www.nginx.com/" target="_blank"><img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" height="60" alt="Nginx" /></a>
+</div>
 
+---
 
+### 🎯 Current Focus
+- 🔭 Building **multi-tier cloud projects** using Terraform, AWS, Ansible, and Kubernetes  
+- 🌱 Preparing for **Red Hat Certified Specialist in Ansible Automation**  
+- 🚀 Growing as a **DevOps / Platform Engineer**, with long-term interest in **Game Development & Machine Learning**  
+- ⚡ Fun fact: I use the ↓ arrow instead of retyping commands
 
-## Github Stats  
-[![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-----
+🌐 **Personal Website:**  
+http://bran-website.s3-website-us-east-1.amazonaws.com
+
+---
