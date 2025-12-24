@@ -54,7 +54,7 @@ Hands-on experience with **Kubernetes, Terraform, Ansible, Docker, and AWS**, fo
 ### 🎯 Current Focus
 - 🔭 Building **multi-tier cloud platforms** using Terraform, AWS, Ansible & Kubernetes  
 - 🌱 Preparing for **Red Hat Certified Specialist in Ansible Automation**  
-- 🚀 Long-term interest in **Platform Engineering, Game Development & Machine Learning**  
+- 🚀 Long-term interest in **Game Development & Machine Learning**  
 - ⚡ Fun fact: I use the ↓ arrow instead of retyping commands
 
 ---
