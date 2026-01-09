@@ -60,5 +60,6 @@ Hands-on experience with **Kubernetes, Terraform, Ansible, Docker, and AWS**, fo
 ---
 
 🌐 **Personal Website**  
-http://bran-website-prod.s3-website-us-east-1.amazonaws.com
+http://bran-website-prod.s3-website-us-east-1.amazonaws.com/
+
 ---
