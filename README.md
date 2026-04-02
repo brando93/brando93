@@ -2,9 +2,6 @@
 <h3 align="center">DevOps Engineer | Cloud & Platform Automation | 5+ years</h3>
 
 <p align="center">
-  <a href="https://github.com/brando93">
-    <img src="https://img.shields.io/github/followers/brando93?label=Followers&style=for-the-badge" />
-  </a>
   <a href="https://linkedin.com/in/brandonrodriguezfernandez">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
   </a>
@@ -15,16 +12,16 @@
 ### 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws" />
-  <img src="https://img.shields.io/badge/Kubernetes-Orchestration-blue?style=for-the-badge&logo=kubernetes" />
-  <img src="https://img.shields.io/badge/Terraform-IaC-623CE4?style=for-the-badge&logo=terraform" />
-  <img src="https://img.shields.io/badge/Ansible-Automation-black?style=for-the-badge&logo=ansible" />
-  <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker" />
-  <img src="https://img.shields.io/badge/Linux-System-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/CI/CD-Pipelines-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SRE-Reliability-critical?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Platform-Engineering-0A0A0A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Python-Scripting-3776AB?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=flat-square&logo=amazonaws" />
+  <img src="https://img.shields.io/badge/Kubernetes-Orchestration-blue?style=flat-square&logo=kubernetes" />
+  <img src="https://img.shields.io/badge/Terraform-IaC-623CE4?style=flat-square&logo=terraform" />
+  <img src="https://img.shields.io/badge/Ansible-Automation-black?style=flat-square&logo=ansible" />
+  <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square&logo=docker" />
+  <img src="https://img.shields.io/badge/Linux-System-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/CI/CD-Pipelines-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/SRE-Reliability-critical?style=flat-square" />
+  <img src="https://img.shields.io/badge/Platform-Engineering-0A0A0A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Python-Scripting-3776AB?style=flat-square&logo=python" />
 </p>
 
 ---
