@@ -1,4 +1,12 @@
 ## 👋 Hi, I’m Brandon Rodriguez  
+
+![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform)
+![Ansible](https://img.shields.io/badge/Ansible-black?style=for-the-badge&logo=ansible)
+![CI/CD](https://img.shields.io/badge/CI/CD-blueviolet?style=for-the-badge)
+![SRE](https://img.shields.io/badge/SRE-critical?style=for-the-badge)
+
 **DevOps Engineer | Cloud & Platform Automation | 5+ years**
 
 <a href="https://github.com/brando93" target="_blank">
@@ -50,9 +58,6 @@ Hands-on experience with **Kubernetes, Terraform, Ansible, Docker, and AWS**, fo
   <a href="https://www.python.org/" target="_blank"><img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="60" alt="Python" /></a>
   <a href="https://www.nginx.com/" target="_blank"><img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" height="60" alt="Nginx" /></a>
 </div>
-
-💡 **Stack Tags:**  
-`AWS` `Kubernetes` `Terraform` `Ansible` `Docker` `Linux` `Bash` `Python` `Jenkins` `GitLab CI/CD` `Nginx`
 
 ---
 
