@@ -9,6 +9,12 @@
 
 ---
 
+### 🌐 Website
+
+👉 http://bran-website-prod.s3-website-us-east-1.amazonaws.com/
+
+---
+
 ### 🚀 Tech Stack
 
 <p align="center">
@@ -66,12 +72,6 @@
 - ☸️ **CKA – Certified Kubernetes Administrator**  
 - 🧱 **Terraform Associate – HashiCorp**  
 - ☁️ **AWS Solutions Architect – Associate**
-
----
-
-### 🌐 Website
-
-👉 http://bran-website-prod.s3-website-us-east-1.amazonaws.com/
 
 ---
 
