@@ -17,6 +17,9 @@ DevOps Engineer with **5+ years of experience**, starting as a **UNIX Engineer**
 I specialize in **automating, operating, and supporting cloud infrastructure** using **Infrastructure as Code (IaC)** and modern DevOps practices.  
 Hands-on experience with **Kubernetes, Terraform, Ansible, Docker, and AWS**, focusing on **scalability, reliability, and automation**.
 
+💡 **Core Areas:**  
+`Cloud Computing` `DevOps` `SRE` `Platform Engineering` `Infrastructure as Code` `Automation` `Scalability` `Reliability`
+
 ---
 
 ### 🎓 Certifications
@@ -29,7 +32,6 @@ Hands-on experience with **Kubernetes, Terraform, Ansible, Docker, and AWS**, fo
 
 - ☁️ **AWS Certified Solutions Architect – Associate**  
   **ID:** [20081a21-7d12-4226-bf35-67edab0d66ff](https://www.credly.com/earner/earned/badge/20081a21-7d12-4226-bf35-67edab0d66ff)
-
 
 ---
 
@@ -49,17 +51,21 @@ Hands-on experience with **Kubernetes, Terraform, Ansible, Docker, and AWS**, fo
   <a href="https://www.nginx.com/" target="_blank"><img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" height="60" alt="Nginx" /></a>
 </div>
 
+💡 **Stack Tags:**  
+`AWS` `Kubernetes` `Terraform` `Ansible` `Docker` `Linux` `Bash` `Python` `Jenkins` `GitLab CI/CD` `Nginx`
+
 ---
 
 ### 🎯 Current Focus
+
 - 🔭 Building **multi-tier cloud platforms** using Terraform, AWS, Ansible & Kubernetes  
 - 🌱 Preparing for **Red Hat Certified Specialist in Ansible Automation**  
 - 🚀 Long-term interest in **Game Development & Machine Learning**  
-- ⚡ Fun fact: I use the ↓ arrow instead of retyping commands
+
+💡 **Focus Tags:**  
+`Platform Engineering` `Cloud Architecture` `Automation at Scale` `SRE Practices` `Observability` `CI/CD Optimization` `AI in DevOps`
 
 ---
 
 🌐 **Personal Website**  
 http://bran-website-prod.s3-website-us-east-1.amazonaws.com/
-
----
