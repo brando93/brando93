@@ -38,7 +38,7 @@
 - 🧠 Started as a **UNIX Engineer**, now focused on **Cloud & Platform Engineering**  
 - 🏢 Experience in **DXC, IBM, Citi Bank, VMware**  
 - ⚙️ Specialized in **Infrastructure as Code, Automation & Cloud Operations**  
-- ☸️ Hands-on with **Kubernetes, Terraform, Ansible, Docker, AWS**
+- ☸️ Hands-on with **Kubernetes, Terraform, Ansible, Docker, AWS, Ansible, Bash, Linux, Python Scripting**
 
 ---
 
@@ -72,9 +72,3 @@
 - ☸️ **CKA – Certified Kubernetes Administrator**  
 - 🧱 **Terraform Associate – HashiCorp**  
 - ☁️ **AWS Solutions Architect – Associate**
-
----
-
-### ⚡ Fun Fact
-
-> I use the ↓ arrow instead of retyping commands 😄
